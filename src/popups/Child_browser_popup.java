@@ -30,6 +30,7 @@ public class Child_browser_popup {
 	   
 	   String childwin = al.get(1);
 	   System.out.println(childwin);
+		System.out.println("hi")
 	   
 	    
 		
